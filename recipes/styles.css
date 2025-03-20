@@ -1,0 +1,23 @@
+.content{
+    padding: 25%;
+    padding-top: 0%;
+    font-size: 24px;
+}
+
+.footer{
+    font-size: 16px;
+    padding-top: 10%;
+    text-align: center;
+}
+
+body{
+    background-color: rgb(220, 100, 100);
+    color: white;
+    font-family: Verdana, sans-serif;
+    text-decoration: dashed;
+}
+
+h1{
+    background-color: brown; 
+    text-align: center;"
+}
